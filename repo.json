@@ -1,0 +1,8 @@
+[
+  {
+    "name": "CineHype",
+    "description": "Placeholder index. Publish a built .cs3 package and replace this file with the generated repository index before installing in CloudStream.",
+    "manifestVersion": 1,
+    "pluginLists": []
+  }
+]
